@@ -1,0 +1,15 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+tensorflow
+torch
+sdv
+ctgan
+deap
+joblib
+openpyxl
+jupyterlab
